@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: io.theblackbox
+Build-Jdk: 1.7.0_67
+Built-By: guillermoblascojimenez
+Created-By: IntelliJ IDEA
+Main-Class: io.theblackbox.maven.proxy.Main
+
